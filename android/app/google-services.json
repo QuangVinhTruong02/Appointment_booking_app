@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "749962494199",
+    "project_id": "bookingdoctor-6a5a1",
+    "storage_bucket": "bookingdoctor-6a5a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749962494199:android:34af9b3ea21c0d9f3b13f2",
+        "android_client_info": {
+          "package_name": "com.example.booking_doctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749962494199-niqv13g4ksg1lk9lgirlffl3grnsc8b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWAJS9FhebzxSUNdbAZUWXByQylVV_24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749962494199-niqv13g4ksg1lk9lgirlffl3grnsc8b4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
